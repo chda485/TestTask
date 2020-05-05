@@ -9,6 +9,7 @@ public class MyClass {
 		System.out.println("Not");
 }*/
 	public static void main(String[] args) {
+		//new
 		for (int i = 3; i < 100; i++)
 		{
 			int chet = 0;
